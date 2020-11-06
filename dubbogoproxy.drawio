@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T06:26:27.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ZJ4vizu7e8CblyxTWZSK" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-06T15:38:15.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ehgtiCKkRYfncR3K5UEt" version="13.9.2" type="github" pages="3">
   <diagram id="ViEVPtt3ZX66NJi5dfsw" name="framework">
-    <mxGraphModel dx="946" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jpl8l09cjAQoRTys4Uus" name="infrastructure">
-    <mxGraphModel dx="1773" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="dOE-xQ5ObYRfRtc6jnCa-0" />
         <mxCell id="dOE-xQ5ObYRfRtc6jnCa-1" parent="dOE-xQ5ObYRfRtc6jnCa-0" />
@@ -142,6 +142,53 @@
         </mxCell>
         <mxCell id="dOE-xQ5ObYRfRtc6jnCa-38" value="Can merge multi response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" parent="dOE-xQ5ObYRfRtc6jnCa-1" vertex="1">
           <mxGeometry x="420" y="440" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BRm0ZIgPrKG3vV_0KPBY" name="Page-3">
+    <mxGraphModel dx="946" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VtC-680UvD9eEQM8u-60-0" />
+        <mxCell id="VtC-680UvD9eEQM8u-60-1" parent="VtC-680UvD9eEQM8u-60-0" />
+        <mxCell id="VtC-680UvD9eEQM8u-60-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="VtC-680UvD9eEQM8u-60-1" source="VtC-680UvD9eEQM8u-60-2" target="VtC-680UvD9eEQM8u-60-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-2" value="client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="VtC-680UvD9eEQM8u-60-1" source="VtC-680UvD9eEQM8u-60-3" target="VtC-680UvD9eEQM8u-60-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="VtC-680UvD9eEQM8u-60-1" source="VtC-680UvD9eEQM8u-60-3" target="VtC-680UvD9eEQM8u-60-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="320" y="80" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;dubbo-go-proxy&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="330" y="90" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-7" value="HTTP request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="160" y="80" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-8" value="Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="160" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-9" value="1. Match api&lt;br style=&quot;font-size: 13px;&quot;&gt;2. Convert request to dubbo generic format&lt;br style=&quot;font-size: 13px;&quot;&gt;3. Perform dubbo call&lt;br style=&quot;font-size: 13px;&quot;&gt;4. Convert response message" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="330" y="120" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="VtC-680UvD9eEQM8u-60-1" source="VtC-680UvD9eEQM8u-60-11" target="VtC-680UvD9eEQM8u-60-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-11" value="upstream service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="880" y="80" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-14" value="Call dubbo method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VtC-680UvD9eEQM8u-60-15" value="Return response message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VtC-680UvD9eEQM8u-60-1">
+          <mxGeometry x="700" y="170" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
