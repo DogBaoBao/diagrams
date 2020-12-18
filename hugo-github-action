@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T03:09:32.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.5" etag="WgUzofG8ukP3I4aKDH8s" type="github"><diagram id="yE-UDVeWRy-SMNqLbHYQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-18T03:16:42.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dZ9nZ73-7wcno6u4U9Rj" version="14.0.5" type="github">
+  <diagram id="yE-UDVeWRy-SMNqLbHYQ" name="hugo-github-action-01">
+    <mxGraphModel dx="946" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="tSJkXG_R3Vfli1EnxrqE-3" target="tSJkXG_R3Vfli1EnxrqE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="104" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/chaplin_comedy_actor_man-128.png;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="tSJkXG_R3Vfli1EnxrqE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="264" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="344" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-7" value="提交文章内容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-8" value="博客源文件仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="301" y="18" width="86" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" target="tSJkXG_R3Vfli1EnxrqE-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568" y="264" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__github_-128.png;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-13" value="生成静态文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-16" value="触发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/free-social-media-3d-volume-2/128/git-social-media-logo-128.png;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-18" value="GitHub Action" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="461" y="328" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tSJkXG_R3Vfli1EnxrqE-19" value="博客仓库 GitHub Pages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="635" y="20" width="133" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
