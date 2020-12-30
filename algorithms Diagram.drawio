@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T07:24:48.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TPkjp7YDoGUhCZlkwzov" version="14.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-30T07:25:38.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OjqpEzDOJNYxUfNm94jY" version="14.1.1" type="github" pages="3">
   <diagram id="cfIy6KriiPACVw7yWnG_" name="valid-parentheses">
     <mxGraphModel dx="946" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,25 +403,25 @@
       <root>
         <mxCell id="4SX4MHXUXRtBvxHL116v-0" />
         <mxCell id="4SX4MHXUXRtBvxHL116v-1" parent="4SX4MHXUXRtBvxHL116v-0" />
-        <mxCell id="gdARdT4mrYauh4CUoi-Q-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;strokeWidth=3;fillColor=#F5F5F5;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
+        <mxCell id="gdARdT4mrYauh4CUoi-Q-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=3;fillColor=#F5F5F5;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
           <mxGeometry x="160" y="180" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gdARdT4mrYauh4CUoi-Q-0" value="Data" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
+        <mxCell id="gdARdT4mrYauh4CUoi-Q-0" value="Data" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
           <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gdARdT4mrYauh4CUoi-Q-1" value="&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;Data&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
+        <mxCell id="gdARdT4mrYauh4CUoi-Q-1" value="&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;Data&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
           <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gdARdT4mrYauh4CUoi-Q-2" value="&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;Data&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
+        <mxCell id="gdARdT4mrYauh4CUoi-Q-2" value="&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;Data&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gdARdT4mrYauh4CUoi-Q-3" value="&lt;span&gt;Data&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
+        <mxCell id="gdARdT4mrYauh4CUoi-Q-3" value="&lt;span&gt;Data&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wMQcaAXtoJEQLBE6B-Gg-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;rounded=1;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=3;fillColor=#F5F5F5;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
+        <mxCell id="wMQcaAXtoJEQLBE6B-Gg-4" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;rounded=1;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=3;fillColor=#F5F5F5;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
           <mxGeometry x="-20" y="200" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wMQcaAXtoJEQLBE6B-Gg-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;rounded=1;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=3;fillColor=#F5F5F5;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
+        <mxCell id="wMQcaAXtoJEQLBE6B-Gg-5" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;rounded=1;glass=0;labelBackgroundColor=none;sketch=1;strokeColor=#000000;strokeWidth=3;fillColor=#F5F5F5;fontColor=#0000FF;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
           <mxGeometry x="800" y="200" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PR-4VDcsRYKEfF_cnTnU-0" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: sans-serif ; font-size: 14px ; background-color: rgb(246 , 246 , 246)&quot;&gt;&lt;b&gt;&amp;nbsp;First In First Out&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#5AA9E6;" vertex="1" parent="4SX4MHXUXRtBvxHL116v-1">
