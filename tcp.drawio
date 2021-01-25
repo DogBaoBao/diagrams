@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T12:16:23.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="MaleGw4bwQS17Z_f2BbU" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T12:40:08.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="OUNGyKUIfiIm_pdnQ1hJ" version="14.2.6" type="github" pages="2">
   <diagram id="mQNNEzXFlcpiZ-JmTbEu" name="tcp">
-    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="PEpyP6COlfBFyuyTyqWd-3" value="窗口大小（16位）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="270" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PEpyP6COlfBFyuyTyqWd-4" value="序列化（32位）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="PEpyP6COlfBFyuyTyqWd-4" value="序列号（32位）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PEpyP6COlfBFyuyTyqWd-5" value="确认应答号（32位）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -54,6 +54,53 @@
         </mxCell>
         <mxCell id="PEpyP6COlfBFyuyTyqWd-18" value="F&lt;br&gt;I&lt;br&gt;N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="20" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lgcFFszF5841LGVWPiok" name="level">
+    <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-0" />
+        <mxCell id="fgMRy0D254ubC5aqSqwt-1" parent="fgMRy0D254ubC5aqSqwt-0" />
+        <mxCell id="fgMRy0D254ubC5aqSqwt-4" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-5" value="表示层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-6" value="会话层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-7" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-8" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-9" value="数据链路层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-10" value="物理层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-11" value="OSGI参考模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="55" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-12" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="280" y="80" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-13" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-14" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-15" value="网络接口层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="280" y="380" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fgMRy0D254ubC5aqSqwt-16" value="TCP/IP 分层模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="fgMRy0D254ubC5aqSqwt-1">
+          <mxGeometry x="287.5" y="530" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
